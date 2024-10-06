@@ -1,3 +1,3 @@
-module github.com/djsni/go-log
+module github.com/DjSni/go-log
 
 go 1.23
